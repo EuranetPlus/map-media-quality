@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Képesek-e még minőségi újságírást produkálni az uniós médiák?",
+  "subtitle": "A média életképessége a médiaorgánumok azon képességét jelenti, hogy független, tényeken alapuló újságírást produkáljanak. Ez csak pénzügyi stabilitással lehetséges.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "A média életképessége a médiaorgánumok azon képességét jelenti, hogy független, tényeken alapuló újságírást produkáljanak. Ez csak pénzügyi stabilitással lehetséges.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Médiapluralizmus és médiaszabadság központja (2024)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
