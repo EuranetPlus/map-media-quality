@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Sind die EU-Medien noch in der Lage, qualitativ hochwertigen Journalismus zu produzieren?",
+  "subtitle": "Die Lebensfähigkeit von Medienunternehmen ist deren Fähigkeit, unabhängigen, faktenbasierten Journalismus zu produzieren. Dies ist nur mit finanzieller Stabilität möglich.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die Lebensfähigkeit von Medienunternehmen ist deren Fähigkeit, unabhängigen, faktenbasierten Journalismus zu produzieren. Dies ist nur mit finanzieller Stabilität möglich.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Zentrum für Medienpluralismus und Medienfreiheit (2024)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
