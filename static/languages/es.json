@@ -1,13 +1,11 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Siguen siendo capaces los medios de comunicación de la UE de producir periodismo de calidad?",
+  "subtitle": "La viabilidad de los medios de comunicación es su capacidad para producir periodismo independiente y basado en hechos. Esto solo es posible con estabilidad financiera.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "La viabilidad de los medios de comunicación es su capacidad para producir periodismo independiente y basado en hechos. Esto solo es posible con estabilidad financiera.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Centro para el Pluralismo Mediático y la Libertad de Prensa (2024)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
